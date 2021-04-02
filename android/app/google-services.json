@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "877830160712",
+    "project_id": "hostin-9d94e",
+    "storage_bucket": "hostin-9d94e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877830160712:android:740cb4e91aec961ffb337d",
+        "android_client_info": {
+          "package_name": "com.warsakapp.hostin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877830160712-v571as5uqhp23kd3dtfj7d2vv2njt1v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.warsakapp.hostin",
+            "certificate_hash": "d5e65c3b3398e2e1cc625a697be4192ce7ac70cb"
+          }
+        },
+        {
+          "client_id": "877830160712-hiso75fkd1eui1va2v6dhjs274ipai8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtTVwJqYCFBk9-Uu0Qsz5p4UM2sNRJfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877830160712-hiso75fkd1eui1va2v6dhjs274ipai8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
