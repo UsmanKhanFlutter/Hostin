@@ -39,7 +39,7 @@ dependencies:
   easy_onboarding: ^0.0.2
 
   # Device Previve
-  device_preview: ^0.5.5
+  # device_preview: ^0.5.5
 
   # Firebase Authentication and Core
   firebase_core: ^0.5.2+1

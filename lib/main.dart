@@ -5,7 +5,7 @@ import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:hostin/Screens/splashScreen.dart';
 import 'package:hostin/Global Variables/global_Color.dart'as appcolor;
-import 'package:device_preview/device_preview.dart';
+// import 'package:device_preview/device_preview.dart';
 
 
 // void main() => runApp(
